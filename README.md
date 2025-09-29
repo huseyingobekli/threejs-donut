@@ -2,14 +2,10 @@
 <h1 align="center"> Threejs Test Donut
  </h1>
  
-
-<img width="1919" height="1079" alt="Screenshot_650" src="https://github.com/user-attachments/assets/c81d70de-7ad7-4efc-b000-aa0153bea38f" />
-
+ ![3d-website-donut1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8072e1c5-6701-4b9a-85c7-6e6d8f04f72e)
 
 
 </br>
-
-
 
  <h2 align="center"><a href="https://threejs-donut-steel.vercel.app/">Demo Website</a>
 </br></br>
